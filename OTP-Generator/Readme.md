@@ -18,7 +18,7 @@ This web application generates One-Time Passwords (OTPs) with a visually appeali
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/otp-generator-web-app.git
+   git clone https://github.com/your-username/otp-generator.git
    ```
 
 2. **Open `index.html` in a Browser:**
