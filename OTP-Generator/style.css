@@ -70,6 +70,10 @@ button {
 button:hover{
     background-color: #c7c5c5;
 }
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
 
 
 body {
