@@ -25,7 +25,7 @@ This web application generates One-Time Passwords (OTPs) with a visually appeali
    Open the `index.html` file in your preferred web browser to launch the OTP Generator Web App.
 
 3. **Generate OTPs:**
-   Click the "Generate OTP" button to get a new One-Time Password.
+   Click the "Get OTP" button to get a new One-Time Password.
 
 ## Animated Background
 
