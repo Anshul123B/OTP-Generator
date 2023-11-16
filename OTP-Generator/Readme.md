@@ -11,8 +11,8 @@ This web application generates One-Time Passwords (OTPs) with a visually appeali
 ## Technologies Used
 
 - **HTML**: Provides the structure and layout for the web app.
-- **CSS**: Styles the HTML elements to enhance the visual appeal.
-- **JavaScript**: Powers the OTP generation functionality and manages the animated background.
+- **CSS**: Styles the HTML elements to enhance the visual appeal and manages the animated background.
+- **JavaScript**: Powers the OTP generation functionality.
 
 ## How to Use
 
